@@ -1,0 +1,28 @@
+body {
+	background: rgb(179, 178, 178) ;
+}
+
+h1 {
+	text-align: center;
+	margin-top: 200px;
+}
+
+#first {
+	margin-right: 200px
+}
+
+#submit {
+	height: 70px;
+	width: 300px;
+	margin-left:570px;
+	margin-top:550px;
+	background: rgb(53, 226, 94);
+	border: 1px solid black ;
+	margin-bottom: 400px;
+}
+
+a {
+	list-style: none;
+	border-style: none;
+	text-decoration: none;
+}
